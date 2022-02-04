@@ -1,0 +1,16 @@
+Practical Tasks
+
+Completed:-
+C 1. spin reels like slot games.
+C 2. you need to set 3 symbols in one column and total 5 columns.
+C 3. spin button and stop button in the right bottom corner.
+C 6. spin time will be 5 seconds after the reel stops.
+C 7. when the reel is in a spinning state only the stop button will be on 			and when the reel is in a stop state spin button will be on.
+
+
+Remaining:-
+4. right side there will be reward buttons pressed by the user and reels stop in that manner.
+5. if the user press the random button then the reels output will be random 
+
+
+For Example: if reel is spinning and we press "J" button then all reel stops at "j" in the middle row it is dynamic.
